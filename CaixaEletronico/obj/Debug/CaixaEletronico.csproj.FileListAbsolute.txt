@@ -1,0 +1,9 @@
+c:\users\marcelo marini\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.dll
+c:\users\marcelo marini\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+c:\users\marcelo marini\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.dll
+c:\users\marcelo marini\documents\visual studio 2015\Projects\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+C:\Users\asafc\Documents\Metatron_Avaliacao_Programador_NET_Marcelo_Marini_Gomes\Questao1\CaixaEletronico\bin\Debug\CaixaEletronico.dll
+C:\Users\asafc\Documents\Metatron_Avaliacao_Programador_NET_Marcelo_Marini_Gomes\Questao1\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Users\asafc\Documents\Metatron_Avaliacao_Programador_NET_Marcelo_Marini_Gomes\Questao1\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+C:\Users\asafc\Documents\Metatron_Avaliacao_Programador_NET_Marcelo_Marini_Gomes\Questao1\CaixaEletronico\obj\Debug\CaixaEletronico.dll
+C:\Users\asafc\Documents\Metatron_Avaliacao_Programador_NET_Marcelo_Marini_Gomes\Questao1\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
